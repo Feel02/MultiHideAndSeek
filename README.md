@@ -6,4 +6,4 @@ Multi Process and Multi Thread Hide and Seek Game using C
                  gcc -o game_thread game_thread_code.c
                  
     For running the code: ./game_process 5 (5 means that the map is 5x5 you can change this parameter)
-                          ./game_thread 5 3 (5 means again the map and 3 means the player number it can be 2, 3 or 4)
+                          ./game_thread 5 3 (5 means again the map and 3 means the player number, it can be 2, 3 or 4)
